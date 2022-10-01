@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Febin Joseph</h1>
-<h3 align="center">A passionate Full Stack -React developer from Kerala,India</h3>
+<h3 align="center">A passionate MERN Stack || React developer from Kerala,India</h3>
 
 - 🌱 I’m currently learning **MERN Stack Developement**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Ask me about **HTML,CSS, JS**
+- 💬 Ask me about **HTML,CSS, JS , React.js , Node.js , MongoDB **
 
 - 📫 How to reach me **febinj14.work@gmail.com**
 
-- ⚡ Fun fact **I think I'm Lil more Sensitive !**
+- ⚡ **:-P**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@f3b_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@f3b_0" height="30" width="40" /></a>
+<a href="https://instagram.com/@de_psycho_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@f3b_0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
