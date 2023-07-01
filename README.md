@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Ask me about HTML,CSS, JS , React.js (Redux) , Node.js , MongoDB 
+- 💬 Ask me about HTML,Sass ,CSS, JS , React.js (Redux-toolkit) , Node.js , SQL, MongoDB 
 
 - 📫 How to reach me **febinj14.work@gmail.com**
 
